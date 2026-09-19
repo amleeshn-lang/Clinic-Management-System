@@ -26,3 +26,4 @@ Password : admin
 Doctor login (or Receptionist)
 Username : hegde@gmail.com
 Password : hegde123
+<!-- Updated by Amall -->
